@@ -1,0 +1,23 @@
+{
+  "name": "serverTest",
+  "version": "1.0.0",
+  "description": "Getting a better understanding of working with servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marioaburto10/serverTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marioaburto10/serverTest/issues"
+  },
+  "homepage": "https://github.com/marioaburto10/serverTest#readme",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
